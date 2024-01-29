@@ -59,3 +59,45 @@
    <img width="12" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="29" alt="mysql logo"  />
 </div>
+
+###
+
+<h3 align="left">🔥   𝙼𝚢 𝚂𝚝𝚊𝚝𝚜</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashSMG&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=false&order=1" height="185" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashSMG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="185" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=YashSMG&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="185" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="left">📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎</h3>
+
+###
+
+<div align="left">
+  <a href="linkedin.com/in/yashgadhwe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=yashgadhwe&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="yashgadhwe@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=yashgadhwe@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/yash_gadhwe/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=yash_gadhwe&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="center">𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜</h3>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/YashSMG/count.svg?"  />
+</div>
+
+###
